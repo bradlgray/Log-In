@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>634B6B4C-F165-4A80-9486-DC5CE119FC51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Log In</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B613E37D550204DD6CB2A359BE01F4C5A4B6655</key>
+		<string>https://github.com/bradlgray/Log-In.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Log In.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B613E37D550204DD6CB2A359BE01F4C5A4B6655</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bradlgray/Log-In.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B613E37D550204DD6CB2A359BE01F4C5A4B6655</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B613E37D550204DD6CB2A359BE01F4C5A4B6655</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Log%20In</string>
+		</dict>
+	</array>
+</dict>
+</plist>
