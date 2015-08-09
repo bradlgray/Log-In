@@ -9,6 +9,8 @@
 import UIKit
 import Parse
 
+// parse is not responding
+
 class ViewController: UIViewController {
     
     var signupActive = true
